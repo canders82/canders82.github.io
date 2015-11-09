@@ -1,0 +1,25 @@
+body {
+	 background-color: black;
+	 color: white;
+}	
+
+img {
+	display: block;
+	margin-left: auto;
+	margin-right: auto
+}
+
+h1 {
+	text-align: center;
+	font-family: trebuchet;
+}
+#slogan {
+	text-align: center;
+}
+
+#email {
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+	color: white;
+}
