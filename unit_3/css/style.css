@@ -1,6 +1,7 @@
+@import url(https://fonts.googleapis.com/css?family=Playfair+Display+SC:400,400italic,700,700italic,900,900italic);
+@import url(https://fonts.googleapis.com/css?family=Droid+Sans);
 body {
 	 background-color: black;
-	 color: white;
 }	
 
 img {
@@ -15,11 +16,12 @@ h1 {
 }
 #slogan {
 	text-align: center;
+	font-family: 'Droid Sans', sans-serif;
+	font-size: 30px;
+	font-weight: 700;
 }
 
 #email {
-	margin-left: auto;
-	margin-right: auto;
 	text-align: center;
 	color: white;
 }
@@ -33,4 +35,16 @@ h1 {
 	height: 0;
 	padding-bottom: 60%;
 	overflow: hidden;
+}
+#title {
+	color: #a48623;
+	font-family: 'Playfair Display SC', serif;
+	font-weight: 900;
+	font-size: 60px;
+	font-style: italic;
+}
+
+.contact {
+	text-align: center;
+	font-family: 'Playfair Display SC', serif;
 }
