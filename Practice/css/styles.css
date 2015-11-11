@@ -1,0 +1,20 @@
+/*body {
+	background-color: black;*/
+}
+
+#leftHalf {
+   background: url('images/yellow.jpg');
+   width: 50%;
+   position: absolute;
+   left: 0px;
+   height: 100%;
+}
+
+#rightHalf {
+   background-color: black;
+   width: 50%;
+   position: absolute;
+   right: 0px;
+   height: 100%;
+   color: white;
+}

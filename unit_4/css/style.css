@@ -23,7 +23,7 @@ h1 {
 
 #email {
 	text-align: center;
-	color: white;
+	color: #a48623
 }
 
 .hero {
@@ -47,4 +47,5 @@ h1 {
 .contact {
 	text-align: center;
 	font-family: 'Playfair Display SC', serif;
+	color: #a48623
 }
